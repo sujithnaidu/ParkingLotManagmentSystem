@@ -6,6 +6,7 @@ Parking Lot Managment System school project at UNC CHARLOTTE
 Team Details:
 
 Team 6
+
 Indu Bhagavatula
 Sujith Babu Alahari
 Deepak Sundar Vijayan
